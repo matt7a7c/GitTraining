@@ -1,0 +1,6 @@
+.idea
+*.jar
+*.iml
+*.war
+*.zip
+*.tar.gz
